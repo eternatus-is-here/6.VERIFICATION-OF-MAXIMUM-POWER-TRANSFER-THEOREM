@@ -1,4 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
+## NAME : WAHHAJ AHAMED 
+## REF NO : 250053293
 
 **AIM:**
 
@@ -25,41 +27,16 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
+![WhatsApp Image 2025-10-24 at 21 15 07_4c1b45b6](https://github.com/user-attachments/assets/42188678-ab74-4a1e-9b78-f2019af22351)
+![WhatsApp Image 2025-10-24 at 21 15 23_dabd161c](https://github.com/user-attachments/assets/3e3d47ef-15d7-479e-a739-2eab27011705)
+![WhatsApp Image 2025-10-24 at 21 15 38_7396ed5b](https://github.com/user-attachments/assets/59121e3c-dea8-485c-860b-ae6660409812)
+![WhatsApp Image 2025-10-24 at 21 15 54_8d33ebf8](https://github.com/user-attachments/assets/600579dd-d866-45f2-b0da-fac59b90ab5c)
 
 
-**MODEL GRAPH:**
-
-Resistance (RL) in ohm
-
-**TABULATION:**
- 
-**TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in mA	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
 
 
-**TABLE (2): FOR PRACTICAL CALCULATION**
-
-S.No	Load
-Resistance(RL) in ohm	Load
-Current (IL) in amps	Load
-voltage (VL) in volts	Load Power (PL) in watts
-1.				
-2.				
-3.				
-4.				
-5.				
 
 
-**MODEL CALCULATION:**
 
 **PROCEDURE:**
 
